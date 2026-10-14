@@ -165,7 +165,8 @@ footer_html = """
         }
     </style>
     <div class="footer">
-       Made By balafromtn 😉
+        Created by <a href="https://www.instagram.com/my_instagram_profile/"
+        target="_blank" rel="noopener noreferrer">Balaji</a>
     </div>
 """
 
